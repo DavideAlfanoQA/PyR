@@ -10,3 +10,4 @@ R:
 https://www.dropbox.com/scl/fo/yvw95b4m48y7usgf5el08/ANHz0LTLFOjVstoHPuSC97Y?rlkey=n5tzp7ivwmgzi4guo3j7b71xy&st=4s55k3b0&dl=0
 
 Evaluation link:
+https://evaluation.qa.com/Login.aspx?course=AEDXD3DA4M4&pin=4869715-25
